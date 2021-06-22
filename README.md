@@ -8,3 +8,5 @@ To run it go to your start menu (Press Windows key)
 :- To Uninstall it go the install directory and run the uninstall setup to uninstall it from your computer
 
 Note :- This program does not make any registry entries
+
+Enjoy! (❁´◡`❁) (✿◡‿◡)
